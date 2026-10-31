@@ -123,7 +123,6 @@ SP brings R$5.07M (about 38% of revenue), ahead of RJ (R$1.76M) and MG (R$1.55M)
 ```
 ├── sql/            8 SQL query files
 ├── screenshots/    Power BI dashboard screenshots
-├── dashboard/      Power BI file (.pbix)
 ├── E-Commerce_Sales_Customer_Insights.pptx
 └── README.md
 ```
